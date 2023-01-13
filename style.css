@@ -9,9 +9,12 @@ body{
     height: 200px;
 };
 
-#navbar_content{
+/* .user-image{
+    height: 10%;
+    width: 10%;
+    border-radius: 50%;
+} */
 
-};
 
 .proimage{
     width: 10px;
@@ -79,4 +82,43 @@ border-radius: 20px;
 .appearane-detials{
     display: flex;
     justify-content: space-between;
+}
+
+.last-content-on-second-card{
+    display: flex;
+    justify-content: space-around;
+}
+
+.theimage{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border: 2px solid white;
+}
+
+.stack-image{
+    position: relative;
+
+}
+
+#image1{
+    position: relative;
+}
+
+
+#image2{
+    position: absolute;
+    top: 5px;
+    left: 20px;
+}
+
+#image3{
+    position: absolute;
+    top: 5px;
+    left: 40px;
+}
+#image4{
+    position: absolute;
+    top: 5px;
+    left: 60px;
 }
