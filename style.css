@@ -1,0 +1,82 @@
+
+body{
+    background: rgb(241,245,249);
+}
+
+#image-cover{
+    background-image: url(/images/chines\ rest.JPG);
+    width: 100%;
+    height: 200px;
+};
+
+#navbar_content{
+
+};
+
+.proimage{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.body-container{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.section-1{
+   
+}
+
+.section-2{
+   
+}
+
+.line{
+    height: 2px;
+    width: 100%;
+    background: rgb(241,245,249);
+}
+
+.card-item-detail{
+    display: flex;
+    
+}
+
+
+#first-card-btn{
+height: 100px;
+border-radius: 20px;
+}
+
+.card1-image-flex{
+
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 7px;
+}
+
+.card1-image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+/* second card styling */
+.section2-imagedetail-container{
+
+    display: flex;
+    justify-content: space-around;
+}
+.card-social-detales{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    margin: 5px;
+}
+
+.appearane-detials{
+    display: flex;
+    justify-content: space-between;
+}
