@@ -16,7 +16,12 @@ body{
 } */
 
 
-
+#body-wrapper{
+    width: 70%;
+    margin: 2rem auto;
+    border: 1px solid red;
+    background: blue;
+}
 .proimage{
     width: 10px;
     height: 10px;
@@ -29,13 +34,13 @@ body{
     justify-content: space-around;
 }
 
-.section-1{
+/* .section-1{
    
 }
 
 .section-2{
    
-}
+} */
 
 .line{
     height: 2px;
